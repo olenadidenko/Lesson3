@@ -1,0 +1,25 @@
+h1, h2{
+	color:#ff4936;
+}
+.chepter p{
+	color: blue;
+}
+.chepter span{
+	color: chocolate;
+}
+
+.chepter .bold{
+	color: darkgreen;
+}
+
+.chepter h3{
+	color: darkmagenta;
+}
+
+#logotupizacij a{
+	color: darkred;
+}
+
+.chepter.svoboda p, .chepter.svoboda{
+	color: cyan;
+}
